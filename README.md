@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Andrea | MSc in Economics | Data Analyst Specialist
------------------------------------------------------------------------------------------------------------------------------------------
+_________________________________________________________________________________________________________________________________________
+
 ## 🚀 Welcome Note
 Welcome Everyone!
 
@@ -29,7 +30,7 @@ My journey at EPISODE ACADEMY was an enlightening experience, equipping me with 
 ## 👀 Professional Aspirations
 
 I am passionate about applying my data analysis skills to strategic decision-making, exploring AI and machine learning applications in data interpretation, and keeping up with the latest trends in big data and cutting-edge techniques.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 ## 🌱 Ongoing Learning Endeavors
 
 I am diligently reinforcing my Data Visualization Skills by preparing for the Microsoft PL-130 Power BI certification while aiming to improve my SQL and Python competencies, which are my primary objectives for the upcoming months. I firmly believe in the " Never stop learning and practicing" philosophy as I advance my analytical toolkit."
