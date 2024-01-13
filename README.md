@@ -15,17 +15,17 @@ My journey at EPISODE ACADEMY was an enlightening experience, equipping me with 
 
 ## 🛠️ *Skill Set*
 
-* CSV/XML/Open Data 🔄 : Proficiency in processing a variety of data formats, including CSV, XML, and open data sources for in-depth analysis.
+* CSV/XML/OPEN DATA 🔄 : Proficiency in processing a variety of data formats, including CSV, XML, and open data sources for in-depth analysis.
 
-* Excel/Pivot 📊 : Advanced skills in Microsoft Excel, especially in creating and interpreting complex data sets using Pivot Tables.
+* EXCEL 📊 : Advanced skills in Microsoft Excel, especially in creating and interpreting complex data sets using complex formulas, OLAP ( Pivot Table) and ETL ( Power Query).  
 
 * SQL/DB/DBMS 🗄️: Comprehensive knowledge of SQL for effective data querying, manipulation, and management in various database management systems. Understanding of database structures and principles.
 
-* Python/Scraping🐍:  Strong capabilities in Python for data scraping and analysis, using tools like BeautifulSoup for extracting data from the web.
+* PYTHON 🐍:  Strong capabilities in Python for data scraping for extracting data from the web or Data Analysis using Pandas.
 
-* Microsoft Power BI 💡:  Expertise in Microsoft Power BI for crafting interactive and detailed reports and dashboards, translating data into actionable insights.
+* MICROSOFT POWER BI 💡:  Expertise in Microsoft Power BI for crafting interactive and detailed reports and dashboards, translating data into actionable insights.
 
-* Google Looker Studio 🔍:  Competent in using Google Looker Studio to develop sophisticated dashboards and reports, enhancing the ability to visualize and interpret data.
+* GOOGLE LOOKER STUDIO 🔍:  Competent in using Google Looker Studio to develop sophisticated dashboards and reports, enhancing the ability to visualize and interpret data.
 
 
 ## 👀 Professional Aspirations
