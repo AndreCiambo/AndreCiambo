@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Andrea | MSc in Economics | Data Analyst Specialist
+## 👋 Hello, I'm Andrea | MSc in Economics | Data Analyst Specialist
 _________________________________________________________________________________________________________________________________________
 
 ## 🚀 Welcome Note
