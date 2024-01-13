@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Andrea | MSc in Economics | Data Analyst Specialist
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🚀 Welcome Note
-
+Welcome Everyone 
 Welcome everyone! I proudly announce that I have just gratuaded as a Data Analyst from Epicode School's intensive 6 months Data Analysis Programme. I have mastered a broad spectrum od advanced data analysis technologies and methodologies during all these months of rigorous work.
 -----------------------------------------------------------------------------------------------------------------------------------------
 ## 💼 Educational Path
