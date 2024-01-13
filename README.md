@@ -23,7 +23,7 @@ My journey at EPISODE ACADEMY was an enlightening experience, equipping me with 
 
 * Google Looker Studio 🔍:  Competent in using Google Looker Studio to develop sophisticated dashboards and reports, enhancing the ability to visualize and interpret data.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-👀 **Professional Aspirations**
+👀 ## Professional Aspirations
 
 I am passionate about applying my data analysis skills to strategic decision-making, exploring AI and machine learning applications in data interpretation, and keeping up with the latest trends in big data and cutting-edge techniques.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
