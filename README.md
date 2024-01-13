@@ -1,15 +1,15 @@
 👋 Hello, I'm Andrea | MSc in Economics | Data Analyst Specialist
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🚀 **Welcome Note** 
+🚀 #Welcome Note#
 
 Welcome everyone! I proudly announce that I have just graduated as a data analyst from EPISODE ACADEMY's intensive 6-month data analysis program. I have mastered a broad spectrum of advanced data analysis technologies and methodologies during all these months of intensive work.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-💼 **Educational Path**
+💼 #Educational Path#
 
 Advanced-Data Analysis Bootcamp - EPICODE School  (6 Months + 300 working hours)
 My journey at EPISODE ACADEMY was an enlightening experience, equipping me with theoretical knowledge and practical skills in data analysis.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🛠️ **Skill Set**
+🛠️ *Skill Set*
 
 * CSV/XML/Open Data 🔄 : Proficiency in processing a variety of data formats, including CSV, XML, and open data sources for in-depth analysis.
 
