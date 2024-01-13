@@ -1,7 +1,6 @@
 ## 👋 Hello, I'm Andrea | MSc in Economics | Data Analyst Specialist
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🚀 Welcome Note
-
 Welcome everyone! I proudly announce that I have just graduated as a data analyst from EPISODE ACADEMY's intensive 6-month data analysis program. I have mastered a broad spectrum of advanced data analysis technologies and methodologies during all these months of intensive work.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 💼 Educational Path
