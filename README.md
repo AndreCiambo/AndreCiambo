@@ -9,7 +9,7 @@ I proudly announce that I have graduated as a Data Analyst from Episode School's
 
 ## 💼 Educational Path
 
-Advanced-Data Analysis Bootcamp - EPICODE School  (6 Months + 300 working hours)
+Advanced Data Analysis Bootcamp - EPICODE School  (6 Months + 300 working hours)
 My journey at EPISODE ACADEMY was an enlightening experience, equipping me with theoretical knowledge and practical skills in data analysis.
 
 
