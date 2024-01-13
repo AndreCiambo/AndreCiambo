@@ -37,7 +37,6 @@ ________________________________________________________________________________
 
 I am diligently reinforcing my Data Visualization Skills by preparing for the Microsoft PL-130 Power BI certification while aiming to improve my SQL and Python competencies, which are my primary objectives for the upcoming months. I firmly believe in the " Never stop learning and practicing" philosophy as I advance my analytical toolkit."
 ________________________________________________________________________________________________________________________________________
-
 ## 💞️ Collaborative Ventures
 
 Keen to participate in data analysis initiatives that utilize state-of-the-art methodologies, harness machine learning techniques, and contribute to the creation of advanced analytical tools.
