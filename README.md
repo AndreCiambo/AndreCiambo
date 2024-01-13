@@ -10,7 +10,8 @@ I proudly announce that I have graduated as a Data Analyst from Episode School's
 
 Advanced-Data Analysis Bootcamp - EPICODE School  (6 Months + 300 working hours)
 My journey at EPISODE ACADEMY was an enlightening experience, equipping me with theoretical knowledge and practical skills in data analysis.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 ## 🛠️ *Skill Set*
 
 * CSV/XML/Open Data 🔄 : Proficiency in processing a variety of data formats, including CSV, XML, and open data sources for in-depth analysis.
