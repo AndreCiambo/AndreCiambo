@@ -2,11 +2,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🚀 Welcome Note
 
-Welcome Evryone 
-
-
-Welcome everyone! I proudly announce that I have just graduated as a data analyst from EPISODE ACADEMY's intensive 6-month data analysis program. I have mastered a broad spectrum of advanced data analysis technologies and methodologies during all these months of intensive work.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Welcome everyone! I proudly announce that I have just gratuaded as a Data Analyst from Epicode School's intensive 6 months Data Analysis Programme. I have mastered a broad spectrum od advanced data analysis technologies and methodologies during all these months of rigorous work.
+-----------------------------------------------------------------------------------------------------------------------------------------
 ## 💼 Educational Path
 
 Advanced-Data Analysis Bootcamp - EPICODE School  (6 Months + 300 working hours)
