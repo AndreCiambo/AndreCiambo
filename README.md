@@ -41,8 +41,7 @@ I am diligently reinforcing my Data Visualization Skills by preparing for the Mi
 
 Keen to participate in data analysis initiatives that utilize state-of-the-art methodologies, harness machine learning techniques, and contribute to the creation of advanced analytical tools.
 
-LinkedIn: linkedin.com/in/andreaciambotti/  
-GitHub: github.com/AndreCiambo
+LinkedIn: linkedin.com/in/andreaciambotti/ 
 
 ## 🌟 Final Thoughts
 
