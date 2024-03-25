@@ -4,12 +4,12 @@
 ## 🚀 Welcome Note
 Welcome Everyone!
 
-I proudly announce that I have graduated as a Data Analyst from Epicode School's intensive six months Data Analysis Programme. I have mastered a broad spectrum of advanced data analysis technologies and methodologies during all these months of rigorous work.
+I proudly announce that I have graduated as a Data Analyst from an intensive six months Data Analysis Programme. I have mastered a broad spectrum of advanced data analysis technologies and methodologies during all these months of rigorous work.
 
 
 ## 💼 Educational Path
 
-MSc in Economics | Advanced Data Analysis Bootcamp - Epicode School  (6 Months + 300 working hours)
+MSc in Economics | Advanced Data Analysis Bootcamp -  (6 Months + 300 working hours)
 My journey at Epicode School was an enlightening experience, equipping me with theoretical knowledge and practical skills in data analysis.
 
 
