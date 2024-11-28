@@ -34,7 +34,7 @@ I am passionate about applying my data analysis skills to strategic decision-mak
 
 ## 🌱 Ongoing Learning Endeavors
 
-I am diligently reinforcing my Data Visualization Skills by preparing for the Microsoft PL-130 Power BI certification while aiming to improve my SQL and Python competencies, which are my primary objectives for the upcoming months. I firmly believe in the " Never stop learning and practicing" philosophy as I advance my analytical toolkit."
+I am diligently reinforcing my Data Visualization Skills by preparing for the Microsoft PL-130 Power BI certification while aiming to improve my SQL and Python competencies, which are my primary objectives for the upcoming months. I firmly believe in the " Never stop learning and practicing" philosophy as I advance my analytical toolkit.
 
 
 ## 💞️ Collaborative Ventures
