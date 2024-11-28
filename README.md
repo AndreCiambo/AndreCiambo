@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Andrea | MSc in Economics | Data Analyst Specialist
+## 👋 Hello, I'm Andrea | MSc in Economics | Data Analyst | Turning Data into Actionable Insights 
 
 
 ## 🚀 Welcome Note
@@ -10,7 +10,7 @@ I proudly announce that I have graduated as a Data Analyst from an intensive six
 ## 💼 Educational Path
 
 MSc in Economics | Advanced Data Analysis Bootcamp -  (6 Months + 300 working hours)
-My journey at Epicode School was an enlightening experience, equipping me with theoretical knowledge and practical skills in data analysis.
+My journey was an enlightening experience, equipping me with theoretical knowledge and practical skills in data analysis.
 
 
 ## 🛠️ *Skill Set*
