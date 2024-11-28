@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Andrea | MSc in Economics | Data Analyst | Turning Data into Actionable Insights 
+## 👋 Hello, I'm Andrea | MScBA | Data Analyst | Turning Data into Strategic Decision
 
 
 ## 🚀 Welcome Note
