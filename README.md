@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Andrea | MScBA | Data Analyst | Turning Data into Strategic Decision
+## 👋 Hello, I'm Andrea | MScBA | Data Analyst | Turning Data into Strategic Decisions
 
 
 ## 🚀 Welcome Note
