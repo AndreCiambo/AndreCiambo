@@ -21,7 +21,7 @@ My journey was an enlightening experience, equipping me with theoretical knowled
 
 * SQL/DB/DBMS 🗄️: Comprehensive knowledge of SQL for effective data querying, manipulation, and management in various database management systems. Understanding of database structures and principles.
 
-* PYTHON 🐍:  Strong capabilities in Python for data scraping for extracting data from the web or Data Analysis using Pandas.
+* PYTHON 🐍:  Strong capabilities in Python for data scraping for extracting data from the web or Data Analysis using Pandas, Seaborn, Numpy, Matplotlib.
 
 * MICROSOFT POWER BI 💡:  Expertise in Microsoft Power BI for crafting interactive and detailed reports and dashboards, translating data into actionable insights.
 
